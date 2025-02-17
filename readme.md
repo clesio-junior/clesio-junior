@@ -47,7 +47,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="Swift logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Assembly_language_logo.svg" height="40" alt="Assembly logo" />
+  <img src="https://computerlanguagesite.wordpress.com/wp-content/uploads/2022/09/asm.png?w=225" height="40" alt="Assembly logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL (MySQL) logo" />
   <img width="12" />
@@ -55,7 +55,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachecassandra/apachecassandra-original.svg" height="40" alt="Cassandra logo" />
+  <img src="https://download.logo.wine/logo/Apache_Cassandra/Apache_Cassandra-Logo.wine.png" height="40" alt="Cassandra logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
 </div>
