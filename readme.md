@@ -68,7 +68,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=clesio-junior" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=clesio-junior" alt="GitHub Streak" />
 </div>
 
 ###
