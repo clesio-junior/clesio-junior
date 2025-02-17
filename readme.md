@@ -66,7 +66,6 @@
   <img width="12" />
   <img src="https://download.logo.wine/logo/Apache_Cassandra/Apache_Cassandra-Logo.wine.png" height="40" alt="Cassandra logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/api/api-original.svg" height="40" alt="API's logo" />
 </div>
 
 
