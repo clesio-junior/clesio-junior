@@ -14,7 +14,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=clesio-junior"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=clesio-junior" alt="visitor badge"/>
 </div>
 
 ###
